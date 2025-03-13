@@ -1,0 +1,5 @@
+git clone https://github.com/iFalXii/Kainara-Assistant.git
+cd Kainara-Assistant
+  git commit -m "Add new file description"
+  git push origin main
+  
